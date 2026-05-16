@@ -10,6 +10,8 @@ Named after **Argus Panoptes**, the hundred-eyed watchman of Greek myth.
 
 ![snaffler-argus report screenshot](docs/screenshot.png)
 
+**[→ Live demo report](https://x1thexxx-lgtm.github.io/snaffler-argus/demo.html)** (generated from [`sample.log`](sample.log))
+
 ## Features
 
 - **Single-file Python script** — no dependencies beyond the standard library
