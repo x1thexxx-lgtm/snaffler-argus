@@ -8,6 +8,8 @@ Snaffler's raw output is dense and hard to triage thousands of lines of TSV-ish 
 
 Named after **Argus Panoptes**, the hundred-eyed watchman of Greek myth.
 
+![snaffler-argus report screenshot](docs/screenshot.png)
+
 ## Features
 
 - **Single-file Python script** — no dependencies beyond the standard library
