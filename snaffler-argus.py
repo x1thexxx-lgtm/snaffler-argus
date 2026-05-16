@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-snaffler-argus — Parse Snaffler logs into an interactive HTML report.
+snaffler-argus - Parse Snaffler logs into an interactive HTML report.
 
 Usage:
     python snaffler-argus.py snaffler.log
