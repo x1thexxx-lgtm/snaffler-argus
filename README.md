@@ -1,8 +1,10 @@
-# snaffler-argus
+# Snaffler-Argus
 
 Parse [Snaffler](https://github.com/SnaffCon/Snaffler) logs into an interactive, self-contained HTML report.
 
-Snaffler's raw output is dense and hard to triage — thousands of lines of TSV-ish text across a domain sweep. `snaffler-argus` turns that into something you can actually work with: filterable tables, auto-extracted credentials, duplicate detection, and credential-reuse analysis.
+Snaffler's raw output is dense and hard to triage thousands of lines of TSV-ish text across a domain sweep. 
+
+`Snaffler-Argus` turns that into something you can actually work with: filterable tables, auto-extracted credentials, duplicate detection, and credential-reuse analysis.
 
 Named after **Argus Panoptes**, the hundred-eyed watchman of Greek myth.
 
@@ -101,7 +103,7 @@ It correctly handles pipes inside regex patterns, missing context, escape sequen
 
 ## Why "argus"?
 
-Argus Panoptes — Ἄργος Πανόπτης, "Argus all-seeing" — was the hundred-eyed giant of Greek myth, set as a watchman by Hera. After his death, his eyes were transferred to the peacock's tail. Felt fitting for a tool whose whole job is to make sure no finding slips through unseen.
+Argus Panoptes Ἄργος Πανόπτης, "Argus all-seeing" was the hundred-eyed giant of Greek myth, set as a watchman by Hera. After his death, his eyes were transferred to the peacock's tail. Felt fitting for a tool whose whole job is to make sure no finding slips through unseen.
 
 ## License
 
